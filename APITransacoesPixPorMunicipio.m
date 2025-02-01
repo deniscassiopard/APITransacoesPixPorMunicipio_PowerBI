@@ -3,7 +3,7 @@
 // Data: 12/01/2025 18:15:59
 // Descrição: Esta função em Power Query (M) gera dinamicamente uma tabela com transações do Pix por município, consultando a API do Banco Central do Brasil.
 // Versão: 1.0
-// Repositório: https://github.com/deniscassiopard/APITransacoesPixPorMunicipio
+// Repositório: https://github.com/deniscassiopard/APITransacoesPixPorMunicipio_PowerBI
 // Licença: MIT
 // ==========================================
 
