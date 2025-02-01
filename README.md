@@ -21,7 +21,7 @@ Altere a variável ***Meses*** no código para incluir ou remover anos/meses par
 ## **Como Usar** ##
 Abra o Power BI. <br>
 Crie uma nova consulta no editor de consultas Power Query Editor. <br>
-Copie e cole o código do arquivo TransacoesPixPorMunicipio.pq no editor de consultas. <br>
+Copie e cole o código do arquivo TransacoesPixPorMunicipio.m no editor de consultas. <br>
 Execute a consulta para carregar os dados. <br>
 Recomendo renomaer a consulta para ***f_APITransacoesPixPorMunicipio***.
 Utilize os dados no Power BI para criar visualizações e relatórios. <br>
